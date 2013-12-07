@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-txgreeks
 Version:	1.0
-Release:	3
+Release:	4
 Summary:	Shape selection for TX fonts Greek letters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/txgreeks
