@@ -1,6 +1,6 @@
 Name:		texlive-txgreeks
 Version:	21839
-Release:	1
+Release:	2
 Summary:	Shape selection for TX fonts Greek letters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/txgreeks
