@@ -3,7 +3,7 @@ Version:	21839
 Release:	2
 Summary:	Shape selection for TX fonts Greek letters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/txgreeks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/txgreeks
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/txgreeks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/txgreeks.doc.r%{version}.tar.xz
